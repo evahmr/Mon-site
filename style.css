@@ -1,0 +1,242 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #222547;
+}
+
+img.rectangle{
+  position: absolute;
+  top: 50px;
+  left: 0px;
+}
+
+h3{
+  color: white;
+}
+
+h3{
+  text-align: center;
+}
+
+h3{
+  font-size: 40px;
+}
+
+h5{
+  color: white;
+}
+
+h5{
+  text-align: left;
+}
+
+h5{
+  font-size: 20px;
+}
+
+h5{
+  position:absolute;
+  top: 750px;
+  left: 30px;
+}
+
+mark{
+  background-color: white;
+  color: black;
+}
+
+img.logo{
+  position:absolute;
+  top: 380px;
+  left: 20px;
+}
+
+img.logo{
+  border-radius: 30% 70% 70% 30% / 30% 58% 42% 70%;
+  padding: 20px
+}
+
+img.blanc2{
+  position:absolute;
+  top: 130px;
+  left: 330px;
+}
+
+img.panthéon{
+  background-color: black;
+  border-radius: 10px;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+img.panthéon{
+  border-radius: 10px;
+  padding: 0px
+}
+
+img.panthéon{
+  position:absolute;
+  top: 150px;
+  left: 900px;
+}
+
+img.blanc{
+  position:absolute;
+  top: 140px;
+  left: 900px;
+}
+
+img.amphi{
+  background-color: black;
+  border-radius: 10px;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+img.amphi{
+  border-radius: 10px;
+  padding: 0px
+}
+
+img.amphi{
+  position:absolute;
+  top: 150px;
+  left: 300px;
+}
+
+p.intro{
+  text-align: left;
+}
+
+p.intro{
+  color: white;
+}
+
+p.intro{
+  position:absolute;
+  top: 400px;
+  left: 310px;
+}
+
+p.implantations{
+  position: absolute;
+  top: 480px;
+  left: 310px;
+}
+
+p.implantations{
+  color: white;
+}
+
+ul{
+  position: absolute;
+  top: 550px;
+  left: 285px;
+}
+
+ul{
+  color: white;
+}
+
+img.rectangle{
+  position:absolute;
+  top: 720px;
+  left: -20px;
+}
+
+table{
+  color: white;
+}
+
+table{
+  position: absolute;
+  top: 820px;
+  left: 600px;
+}
+
+table, th, td {
+border: 2px solid white
+}
+
+table, th, td {
+padding: 8px;
+}
+
+img.rectangle2{
+  position:absolute;
+  top: 1150px;
+  left: -20px;
+}
+
+img.inscription{
+  position:absolute;
+  top: 1250px;
+  left: 650px;
+}
+
+a{
+  color: white;
+}
+
+a.lien{
+  text-align: center;
+}
+
+a.lien{
+  position:absolute;
+  top: 1200px;
+  left: 770px;
+}
+
+p.réseaux{
+  color: white;
+}
+
+p.réseaux{
+  position:absolute;
+  top: 1600px;
+  left: 20px;
+}
+
+a.lien2{
+  text-align: center;
+}
+
+a.lien2{
+  position:absolute;
+  top: 1615px;
+  left: 400px;
+}
+
+a.lien3{
+  text-align: center;
+}
+
+a.lien3{
+  position:absolute;
+  top: 1615px;
+  left: 480px;
+}
+
+a.lien4{
+  text-align: center;
+}
+
+a.lien4{
+  position:absolute;
+  top: 1615px;
+  left: 540px;
+}
+
+a.lien5{
+  text-align: center;
+}
+
+a.lien5{
+  position:absolute;
+  top: 1615px;
+  left: 610px;
+}
